@@ -3,7 +3,7 @@
 ## This is an index to public and private code:
 ### We plan on making most of this code public once we publish a few more papers
 
-
+### Related Papers available at https://www.researchgate.net/profile/Brian_Gaudet2
 
 Repository | Description | Status
 ------------ | ------------- | -------------
