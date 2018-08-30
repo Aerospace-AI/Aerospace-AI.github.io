@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to DeepAnalytX
+
+## This is an index to public and private code:
+### We plan on making most of this code public once we publish a few more papers
+
+DeepAnalytX/RL_lib                Private
+DeepAnalytX/AAS-18-290-6DOF       Private
 
 You can use the [editor on GitHub](https://github.com/DeepAnalytX/DeepAnalytX.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
