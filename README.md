@@ -1,7 +1,7 @@
 ## Welcome to DeepAnalytX
 
 ## This is an index to public and private code:
-### We plan on making most of this code public once we publish a few more papers
+### We plan on making most of this code public.  Once we have submitted a contract and the proposal deadline has passed, we will typically post the code.
 
 ### Related Papers available at https://www.researchgate.net/profile/Brian_Gaudet2
 
