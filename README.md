@@ -1,6 +1,6 @@
 ## Welcome to DeepAnalytX
 
-## This is an index to public and private code:
+## This is an index to public and private code
 
 ### Related Papers available at https://www.researchgate.net/profile/Brian_Gaudet2
 
@@ -11,5 +11,9 @@ RL-Meta-Learning-ACTA | Code to reproduce "Adaptive Guidance and Integrated Navi
 AAS-18-290-6DOF | Code to reproduce "Deep reinforcement learning for six degree-of-freedom planetary powered descent and landing" | Public
 AAS-18-290_3dof | Code to reproduce 3-DOF Mars Powered Descent Phase using PPO | Private
 RL_ExoIntercept | Code to reproduce "A Guidance Law for Terminal Phase Exo-Atmospheric Interception Against a Maneuvering Target using Angle-Only Measurements Optimized using Reinforcement Meta-Learning" | Public
+
+## Acknowledgements:
+### Code for attitude representations and transformations adapted from "Analytical Mechanics of Space Systems"
+### 
 
 
