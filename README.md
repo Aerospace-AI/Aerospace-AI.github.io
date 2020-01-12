@@ -12,7 +12,7 @@ Repository | Description | Status
 [AAS-18-290_3dof](https://github.com/Aerospace-AI/AAS-18-290_3dof) | Code to reproduce 3-DOF Mars Powered Descent Phase using PPO | Public
 [RL_ExoIntercept](https://github.com/Aerospace-AI/RL_ExoIntercept) | Code to reproduce "Angles only Intercept of Manuvering Targets using Reinforcement Meta-Learning" | Public
 [RL_ExoIntercept 6-DOF](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF) | Paper in progress | Private
-
+[6-DOF Hovering with Altimetry](https://github.com/Aerospace-AI/Hovering-with-Altimetry) | Code to reproduce "Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning"  |  Private
 ## Acknowledgements:
 ### Code for attitude representations and transformations adapted from "Analytical Mechanics of Space Systems"
 ### 
