@@ -6,7 +6,7 @@
 
 Repository | Description | Status
 ------------ | ------------- | -------------
-[Asteroid_CPO_Seeker](https://github.com/Aerospace-AI/Asteroid_CPO_seeker) | Code to reproduce "Seeker-Based Adaptive Guidance via Reinforcement Meta-Learning Applied to Autonomous Asteroid Missions" | Private
+[Asteroid_CPO_Seeker](https://github.com/Aerospace-AI/Asteroid_CPO_seeker) | Code to reproduce "Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations" | Private
 [RL-Meta-Learning-ACTA](https://github.com/Aerospace-AI/RL-Meta-Learning-ACTA) | Code to reproduce "Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning" | Public
 [AAS-18-290-6DOF](https://github.com/Aerospace-AI/AAS-18-290-6DOF) | Code to reproduce "Deep reinforcement learning for six degree-of-freedom planetary powered descent and landing" | Public
 [AAS-18-290_3dof](https://github.com/Aerospace-AI/AAS-18-290_3dof) | Code to reproduce 3-DOF Mars Powered Descent Phase using PPO | Public
