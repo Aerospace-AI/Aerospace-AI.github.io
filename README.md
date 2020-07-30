@@ -13,6 +13,7 @@ Repository | Description | Status
 [RL_ExoIntercept](https://github.com/Aerospace-AI/RL_ExoIntercept) | Code to reproduce "Angles only Intercept of Manuvering Targets using Reinforcement Meta-Learning" | Public
 [RL_ExoIntercept 6-DOF](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF) | Paper in progress | Private
 [6-DOF Hovering with Altimetry](https://github.com/Aerospace-AI/Hovering-with-Altimetry) | Code to reproduce "Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning"  |  Private
+<img width="616" alt="Hovering_image" src="https://user-images.githubusercontent.com/25127414/88942387-0c56a900-d23f-11ea-9e6e-876b38f2d3ec.png">
 ## Acknowledgements:
 ### Code for attitude representations and transformations adapted from "Analytical Mechanics of Space Systems"
 ### 
