@@ -14,11 +14,18 @@ Repository | Description | Status
 [RL_ExoIntercept 6-DOF](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF) | Paper in progress | Private
 [6-DOF Hovering with Altimetry](https://github.com/Aerospace-AI/Hovering-with-Altimetry) | Code to reproduce "Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning"  |  Private
 
-### Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations
+### Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations:
 <img width="654" alt="conops" src="https://user-images.githubusercontent.com/25127414/88941910-6f940b80-d23e-11ea-99a1-08211242f5d1.png">
 
-### Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning
+### Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning:
 <img width="616" alt="Hovering_image" src="https://user-images.githubusercontent.com/25127414/88942387-0c56a900-d23f-11ea-9e6e-876b38f2d3ec.png">
+
+### Reinforcement Meta-Learning for Interception of Maneuvering Exoatmospheric Targets with Parasitic Attitude Loop
+<img width="668" alt="exo_1" src="https://user-images.githubusercontent.com/25127414/88943998-09f54e80-d241-11ea-9657-d6969a449f71.png">
+
+<img width="475" alt="exo_2" src="https://user-images.githubusercontent.com/25127414/88944235-53de3480-d241-11ea-9f4d-d7bcf9c6d5d9.png">
+
+
 
 ## Acknowledgements:
 ### Code for attitude representations and transformations adapted from "Analytical Mechanics of Space Systems"
