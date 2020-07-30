@@ -14,8 +14,10 @@ Repository | Description | Status
 [RL_ExoIntercept 6-DOF](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF) | Paper in progress | Private
 [6-DOF Hovering with Altimetry](https://github.com/Aerospace-AI/Hovering-with-Altimetry) | Code to reproduce "Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning"  |  Private
 
+### Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations
 <img width="654" alt="conops" src="https://user-images.githubusercontent.com/25127414/88941910-6f940b80-d23e-11ea-99a1-08211242f5d1.png">
 
+### Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning
 <img width="616" alt="Hovering_image" src="https://user-images.githubusercontent.com/25127414/88942387-0c56a900-d23f-11ea-9e6e-876b38f2d3ec.png">
 
 ## Acknowledgements:
