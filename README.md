@@ -11,7 +11,8 @@ Repository | Description | Status
 [AAS-18-290-6DOF](https://github.com/Aerospace-AI/AAS-18-290-6DOF) | Code to reproduce "Deep reinforcement learning for six degree-of-freedom planetary powered descent and landing" | Public
 [AAS-18-290_3dof](https://github.com/Aerospace-AI/AAS-18-290_3dof) | Code to reproduce 3-DOF Mars Powered Descent Phase using PPO | Public
 [RL_ExoIntercept](https://github.com/Aerospace-AI/RL_ExoIntercept) | Code to reproduce "Angles only Intercept of Manuvering Targets using Reinforcement Meta-Learning" | Public
-[RL_ExoIntercept 6-DOF](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF) | Paper in progress | Private
+[RL_ExoIntercept 6-DOF](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF) | Code to reproduce "Reinforcement Meta-Learning for Interception of Maneuvering Exoatmospheric Targets with Parasitic Attitude Loop"  | Private
+[RL_ExoIntercept 6-DOF SFCOMP](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF-SFCOMP) | Code to reproduce "Adaptive Scale Factor Compensation for Missiles with Strapdown Seekers via Predictive Coding" | Private
 [6-DOF Hovering with Altimetry](https://github.com/Aerospace-AI/Hovering-with-Altimetry) | Code to reproduce "Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning"  |  Private
 
 ### Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations:
