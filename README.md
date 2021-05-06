@@ -14,6 +14,8 @@ Repository | Description | Status
 [RL_ExoIntercept 6-DOF](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF) | Code to reproduce "Reinforcement Meta-Learning for Interception of Maneuvering Exoatmospheric Targets with Parasitic Attitude Loop"  | Private
 [RL_ExoIntercept 6-DOF SFCOMP](https://github.com/Aerospace-AI/RL_ExoIntercept-6DOF-SFCOMP) | Code to reproduce "Adaptive Scale Factor Compensation for Missiles with Strapdown Seekers via Predictive Coding" | Private
 [6-DOF Hovering with Altimetry](https://github.com/Aerospace-AI/Hovering-with-Altimetry) | Code to reproduce "Six Degree-of-Freedom Hovering using LIDAR Altimetry via Reinforcement Meta-Learning"  |  Private
+[3-DOF Hypersonic Terminal](https://github.com/Aerospace-AI/Hypersonic_RL_GHV-3DOF) | Code to reproduce "Reinforcement Meta-Learning for Adaptive Terminal Guidance of Autonomous Hypersonic Strike Weapons"  |  Private
+[3-DOF Hypersonic Approach](https://github.com/Aerospace-AI/Hypersonic_RL_3-DOF-AIAA) | Code to reproduce "Adaptive Approach Phase Guidance for a Hypersonic Glider via Reinforcement Meta Learning"  |  Private
 
 ### Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations:
 <img width="654" alt="conops" src="https://user-images.githubusercontent.com/25127414/88941910-6f940b80-d23e-11ea-99a1-08211242f5d1.png">
