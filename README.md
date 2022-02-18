@@ -19,7 +19,7 @@ Repository | Description | Status
 [6-DOF Lunar Landing using Seeker](https://github.com/Aerospace-AI/Moon_seeker_RL5) | Code to reproduce "Integrated Guidance and Control for Lunar Landing using a Stabilized Seeker"  |  Private
 [6-DOF Hypersonic Strike Weapon using GHV Geometry](https://github.com/Aerospace-AI/HSW-6DOF) | Code to reproduce "No Paper Yet"  |  Private
 [6-DOF Integrated and Adaptive Guidance and Flight Control for Air-to-Air Missile and LOS shaping](https://github.com/Aerospace-AI/Endo-Intercept-A2A) | Code to reproduce "Integrated and Adaptive Guidance and Control for Endoatmospheric Missiles via Reinforcement Learning"  |  Private
-
+[6-DOF Integrated and Adaptive Guidance and Flight Control for Hypersonic Point Defense Interceptor](https://github.com/Aerospace-AI/Endo-Intercept-PD) | Code to reproduce "No Paper Yet"  |  Private
 ### Terminal Adaptive Guidance via Reinforcement Meta-Learning: Applications to Autonomous Asteroid Close-Proximity Operations:
 <img width="654" alt="conops" src="https://user-images.githubusercontent.com/25127414/88941910-6f940b80-d23e-11ea-99a1-08211242f5d1.png">
 
