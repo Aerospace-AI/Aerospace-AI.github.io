@@ -1,6 +1,6 @@
 ## Welcome to Aerospace-AI
 
-## Public code will no longer be available on this repository, it can only be shared within the University of Arizona's Space System's Engineering Laboratory
+## Public code will no longer be available on this repository, it can only be shared within the University of Arizona's Space System Engineering Laboratory
 
 ### Related Papers available at https://www.researchgate.net/profile/Brian_Gaudet2
 
